@@ -51,7 +51,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - User Reviews and Ratings
 - Comprehensive Betting System Reviews
 - Detailed Betting Analysis
-
----
-
-**Author/Brand:** Trust Reviews ✔️⭐
